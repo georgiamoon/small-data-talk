@@ -1,6 +1,7 @@
-ux-bugs-talk
+small-data-talk
 ============
 
-dc internet freedom hackathon talk about writing good ux bugs
+#contrarycon http://contrarycon.com conference @1776dc
+8-23-2014
 
-Live: http://georgiamoon.github.io/ux-bugs-talk/
+Live: http://georgiamoon.github.io/small-data-talk/
