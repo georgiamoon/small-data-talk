@@ -1,7 +1,7 @@
 small-data-talk
 ============
 
-#contrarycon http://contrarycon.com conference @1776dc
+ContraryCon: http://contrarycon.com conference @1776dc
 8-23-2014
 
 Live: http://georgiamoon.github.io/small-data-talk/
